@@ -1,0 +1,10 @@
+[17-Oct-2025 13:17:15 UTC] PHP Warning:  Undefined array key "super_admin_user_id" in /home3/exceldr1/zapron.in/crm/user/phone_leads.php on line 22
+[27-Oct-2025 04:59:15 UTC] PHP Warning:  Undefined array key "super_admin_user_id" in /home3/exceldr1/zapron.in/crm/user/phone_leads.php on line 22
+[27-Oct-2025 13:24:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home3/exceldr1/zapron.in/crm/user/leads_management.php:586
+Stack trace:
+#0 /home3/exceldr1/zapron.in/crm/user/leads_management.php(586): mysqli_query(Object(mysqli), 'SHOW COLUMNS FR...')
+#1 {main}
+  thrown in /home3/exceldr1/zapron.in/crm/user/leads_management.php on line 586
+[02-Nov-2025 04:50:46 UTC] PHP Warning:  Undefined array key "super_admin_user_id" in /home3/exceldr1/zapron.in/crm/user/phone_leads.php on line 22
+[02-Nov-2025 09:08:50 UTC] PHP Warning:  Undefined array key "super_admin_user_id" in /home3/exceldr1/zapron.in/crm/user/phone_leads.php on line 22
+[02-Nov-2025 09:09:56 UTC] PHP Warning:  Undefined array key "super_admin_user_id" in /home3/exceldr1/zapron.in/crm/user/phone_leads.php on line 22
